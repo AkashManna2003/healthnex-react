@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/healthnex-react/static/css/main.c611c4b7.css",
-    "main.js": "/healthnex-react/static/js/main.c7d725af.js",
+    "main.css": "/healthnex-react/static/css/main.a02b9828.css",
+    "main.js": "/healthnex-react/static/js/main.07d02adf.js",
     "static/media/product4.jpg": "/healthnex-react/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/healthnex-react/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/healthnex-react/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -14,11 +14,11 @@
     "static/media/avatar4.jpg": "/healthnex-react/static/media/avatar4.f56b774f77caaf2f6921.jpg",
     "static/media/product5.jpg": "/healthnex-react/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/healthnex-react/index.html",
-    "main.c611c4b7.css.map": "/healthnex-react/static/css/main.c611c4b7.css.map",
-    "main.c7d725af.js.map": "/healthnex-react/static/js/main.c7d725af.js.map"
+    "main.a02b9828.css.map": "/healthnex-react/static/css/main.a02b9828.css.map",
+    "main.07d02adf.js.map": "/healthnex-react/static/js/main.07d02adf.js.map"
   },
   "entrypoints": [
-    "static/css/main.c611c4b7.css",
-    "static/js/main.c7d725af.js"
+    "static/css/main.a02b9828.css",
+    "static/js/main.07d02adf.js"
   ]
 }
